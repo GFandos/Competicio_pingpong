@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Competició_Ping_Pong
 {
-    class League
+    public class League
     {
         
         public int id;

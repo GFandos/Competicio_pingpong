@@ -1,0 +1,18 @@
+C:\Users\47989768s\Documents\PingPongCompeti\Competicio_pingpong\Competi_Ping-PongTests\bin\Debug\Competi_Ping-PongTests.dll
+C:\Users\47989768s\Documents\PingPongCompeti\Competicio_pingpong\Competi_Ping-PongTests\bin\Debug\Competi_Ping-PongTests.pdb
+C:\Users\47989768s\Documents\PingPongCompeti\Competicio_pingpong\Competi_Ping-PongTests\bin\Debug\Competició Ping-Pong.exe
+C:\Users\47989768s\Documents\PingPongCompeti\Competicio_pingpong\Competi_Ping-PongTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\47989768s\Documents\PingPongCompeti\Competicio_pingpong\Competi_Ping-PongTests\bin\Debug\Firebase.Database.dll
+C:\Users\47989768s\Documents\PingPongCompeti\Competicio_pingpong\Competi_Ping-PongTests\bin\Debug\System.Reactive.Core.dll
+C:\Users\47989768s\Documents\PingPongCompeti\Competicio_pingpong\Competi_Ping-PongTests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\47989768s\Documents\PingPongCompeti\Competicio_pingpong\Competi_Ping-PongTests\bin\Debug\System.Reactive.Linq.dll
+C:\Users\47989768s\Documents\PingPongCompeti\Competicio_pingpong\Competi_Ping-PongTests\bin\Debug\System.Reactive.Interfaces.dll
+C:\Users\47989768s\Documents\PingPongCompeti\Competicio_pingpong\Competi_Ping-PongTests\bin\Debug\Competició Ping-Pong.pdb
+C:\Users\47989768s\Documents\PingPongCompeti\Competicio_pingpong\Competi_Ping-PongTests\bin\Debug\System.Reactive.Core.xml
+C:\Users\47989768s\Documents\PingPongCompeti\Competicio_pingpong\Competi_Ping-PongTests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\47989768s\Documents\PingPongCompeti\Competicio_pingpong\Competi_Ping-PongTests\bin\Debug\System.Reactive.Linq.xml
+C:\Users\47989768s\Documents\PingPongCompeti\Competicio_pingpong\Competi_Ping-PongTests\bin\Debug\System.Reactive.Interfaces.xml
+C:\Users\47989768s\Documents\PingPongCompeti\Competicio_pingpong\Competi_Ping-PongTests\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\47989768s\Documents\PingPongCompeti\Competicio_pingpong\Competi_Ping-PongTests\obj\Debug\Competi_Ping-PongTests.csprojResolveAssemblyReference.cache
+C:\Users\47989768s\Documents\PingPongCompeti\Competicio_pingpong\Competi_Ping-PongTests\obj\Debug\Competi_Ping-PongTests.dll
+C:\Users\47989768s\Documents\PingPongCompeti\Competicio_pingpong\Competi_Ping-PongTests\obj\Debug\Competi_Ping-PongTests.pdb

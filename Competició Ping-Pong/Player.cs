@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Competició_Ping_Pong
 {
-    class Player
+    public class Player
     {
         public String id { get; set; }
         public String name { get; set; }

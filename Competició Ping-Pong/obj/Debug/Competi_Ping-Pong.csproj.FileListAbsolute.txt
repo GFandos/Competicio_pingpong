@@ -58,3 +58,23 @@ C:\Users\arni_\OneDrive\Documents\Visual Studio 2015\Projects\Competició Ping-P
 C:\Users\arni_\OneDrive\Documents\Visual Studio 2015\Projects\Competició Ping-Pong\Competició Ping-Pong\obj\Debug\Competició_Ping_Pong.Lliga.resources
 C:\Users\arni_\OneDrive\Documents\Visual Studio 2015\Projects\Competició Ping-Pong\Competició Ping-Pong\obj\Debug\Competició_Ping_Pong.Properties.Resources.resources
 C:\Users\arni_\OneDrive\Documents\Visual Studio 2015\Projects\Competició Ping-Pong\Competició Ping-Pong\obj\Debug\Competi_Ping-Pong.csproj.GenerateResource.Cache
+C:\Users\47989768s\Documents\PingPongCompeti\Competicio_pingpong\Competició Ping-Pong\bin\Debug\Competició Ping-Pong.exe.config
+C:\Users\47989768s\Documents\PingPongCompeti\Competicio_pingpong\Competició Ping-Pong\obj\Debug\Competició Ping-Pong.exe
+C:\Users\47989768s\Documents\PingPongCompeti\Competicio_pingpong\Competició Ping-Pong\obj\Debug\Competició Ping-Pong.pdb
+C:\Users\47989768s\Documents\PingPongCompeti\Competicio_pingpong\Competició Ping-Pong\obj\Debug\Competi_Ping-Pong.csprojResolveAssemblyReference.cache
+C:\Users\47989768s\Documents\PingPongCompeti\Competicio_pingpong\Competició Ping-Pong\obj\Debug\Competició_Ping_Pong.Lliga.resources
+C:\Users\47989768s\Documents\PingPongCompeti\Competicio_pingpong\Competició Ping-Pong\obj\Debug\Competició_Ping_Pong.Properties.Resources.resources
+C:\Users\47989768s\Documents\PingPongCompeti\Competicio_pingpong\Competició Ping-Pong\obj\Debug\Competi_Ping-Pong.csproj.GenerateResource.Cache
+C:\Users\47989768s\Documents\PingPongCompeti\Competicio_pingpong\Competició Ping-Pong\bin\Debug\Competició Ping-Pong.exe
+C:\Users\47989768s\Documents\PingPongCompeti\Competicio_pingpong\Competició Ping-Pong\bin\Debug\Competició Ping-Pong.pdb
+C:\Users\47989768s\Documents\PingPongCompeti\Competicio_pingpong\Competició Ping-Pong\bin\Debug\Firebase.Database.dll
+C:\Users\47989768s\Documents\PingPongCompeti\Competicio_pingpong\Competició Ping-Pong\bin\Debug\Newtonsoft.Json.dll
+C:\Users\47989768s\Documents\PingPongCompeti\Competicio_pingpong\Competició Ping-Pong\bin\Debug\System.Reactive.Core.dll
+C:\Users\47989768s\Documents\PingPongCompeti\Competicio_pingpong\Competició Ping-Pong\bin\Debug\System.Reactive.Interfaces.dll
+C:\Users\47989768s\Documents\PingPongCompeti\Competicio_pingpong\Competició Ping-Pong\bin\Debug\System.Reactive.Linq.dll
+C:\Users\47989768s\Documents\PingPongCompeti\Competicio_pingpong\Competició Ping-Pong\bin\Debug\System.Reactive.PlatformServices.dll
+C:\Users\47989768s\Documents\PingPongCompeti\Competicio_pingpong\Competició Ping-Pong\bin\Debug\Newtonsoft.Json.xml
+C:\Users\47989768s\Documents\PingPongCompeti\Competicio_pingpong\Competició Ping-Pong\bin\Debug\System.Reactive.Core.xml
+C:\Users\47989768s\Documents\PingPongCompeti\Competicio_pingpong\Competició Ping-Pong\bin\Debug\System.Reactive.Interfaces.xml
+C:\Users\47989768s\Documents\PingPongCompeti\Competicio_pingpong\Competició Ping-Pong\bin\Debug\System.Reactive.Linq.xml
+C:\Users\47989768s\Documents\PingPongCompeti\Competicio_pingpong\Competició Ping-Pong\bin\Debug\System.Reactive.PlatformServices.xml
